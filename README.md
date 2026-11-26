@@ -16,7 +16,7 @@ python expense_tracker.py
 ## Team
 -  DEV LAMBA
 -  VANSH TYAGI
--  ATRARV NIM
+-  ATHARV NIM
 -  PRINCE KUMAR 
 
 Course: Computational Thinking and Programming (2026CSAE100), Bennett University# expense-tracker
