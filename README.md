@@ -14,9 +14,9 @@ OVER BUDGET alerts.
 python expense_tracker.py
 
 ## Team
-- Member 1 DEV LAMBA
-- Member 2 VANSH TYAGI
-- Member 3 ATRARV NIM
-- Member 4 PRINCE KUMAR 
+-  DEV LAMBA
+-  VANSH TYAGI
+-  ATRARV NIM
+-  PRINCE KUMAR 
 
 Course: Computational Thinking and Programming (2026CSAE100), Bennett University# expense-tracker
